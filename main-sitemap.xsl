@@ -1,3 +1,7 @@
+<br />
+<b>Warning</b>:  Undefined array key "use-forms" in <b>C:\laragon\www\swallow-training\wp-content\plugins\simply-static-pro\src\form\class-ssp-form-settings.php</b> on line <b>42</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "use-forms" in <b>C:\laragon\www\swallow-training\wp-content\plugins\simply-static-pro\src\form\class-ssp-form-webhook.php</b> on line <b>39</b><br />
 <?xml version="1.0" encoding="UTF-8"?><xsl:stylesheet version="2.0"
 	xmlns:html="http://www.w3.org/TR/REC-html40"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"

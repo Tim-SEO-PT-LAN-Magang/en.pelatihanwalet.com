@@ -1,3 +1,7 @@
+<br />
+<b>Warning</b>:  Undefined array key "use-forms" in <b>C:\laragon\www\swallow-training\wp-content\plugins\simply-static-pro\src\form\class-ssp-form-settings.php</b> on line <b>42</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "use-forms" in <b>C:\laragon\www\swallow-training\wp-content\plugins\simply-static-pro\src\form\class-ssp-form-webhook.php</b> on line <b>39</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -11,8 +15,8 @@
 	<title>Pelatihan Walet</title>
 	<atom:link href="/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Mon, 27 Feb 2023 07:21:18 +0000</lastBuildDate>
+	<description>The Best Swallow Cultivation Seminar and Training Provider in Indonesia</description>
+	<lastBuildDate>Thu, 16 Mar 2023 08:17:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,17 +32,17 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Cara Mengatasi Masalah pada Burung Walet: Penyakit dan Gangguan Umum yang Sering Terjadi</title>
-		<link>/cara-mengatasi-masalah-pada-burung-walet-penyakit-dan-gangguan-umum-yang-sering-terjadi.html</link>
-					<comments>/cara-mengatasi-masalah-pada-burung-walet-penyakit-dan-gangguan-umum-yang-sering-terjadi.html#respond</comments>
+		<title>How to Solve Problems in Swallows: Common Diseases and Disorders that Often Occur</title>
+		<link>/how-to-solve-problems-in-swallows-common-diseases-and-disorders-that-often-occur</link>
+					<comments>/how-to-solve-problems-in-swallows-common-diseases-and-disorders-that-often-occur#respond</comments>
 		
 		<dc:creator><![CDATA[raulilma]]></dc:creator>
 		<pubDate>Mon, 27 Feb 2023 07:18:35 +0000</pubDate>
 				<category><![CDATA[Burung Walet]]></category>
 		<category><![CDATA[Tutorial]]></category>
-		<guid isPermaLink="false">/?p=811</guid>
+		<guid isPermaLink="false">http://trainingwalet.test/?p=811</guid>
 
-					<description><![CDATA[Burung walet merupakan hewan ternak yang sangat berharga karena menghasilkan sarang walet, yang menjadi bahan baku dalam industri makanan dan kosmetik. Namun, burung walet juga rentan terkena berbagai penyakit dan gangguan, yang dapat mengganggu produksi sarang walet dan mengancam kesehatan burung. Oleh karena itu, penting bagi peternak walet untuk mengetahui cara mengatasi masalah yang sering &#8230;<p class="read-more"> <a class="" href="/cara-mengatasi-masalah-pada-burung-walet-penyakit-dan-gangguan-umum-yang-sering-terjadi.html"> <span class="screen-reader-text">Cara Mengatasi Masalah pada Burung Walet: Penyakit dan Gangguan Umum yang Sering Terjadi</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Swiftlet is a very valuable livestock animal because it produces swallow nests, which are used as raw materials in the food and cosmetic industries. However, swiftlets are also susceptible to various diseases and disorders, which can disrupt the production of swiftlet nests and threaten the health of birds. Therefore, it is important for swiftlet breeders &#8230;<p class="read-more"> <a class="" href="/how-to-solve-problems-in-swallows-common-diseases-and-disorders-that-often-occur"> <span class="screen-reader-text">How to Solve Problems in Swallows: Common Diseases and Disorders that Often Occur</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="811" class="elementor elementor-811">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-743e694d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="743e694d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -60,36 +64,23 @@
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
 <div class="markdown prose w-full break-words dark:prose-invert light">
-<p>Burung walet merupakan hewan ternak yang sangat berharga karena menghasilkan sarang walet, yang menjadi bahan baku dalam industri makanan dan kosmetik. Namun, burung walet juga rentan terkena berbagai penyakit dan gangguan, yang dapat mengganggu produksi sarang walet dan mengancam kesehatan burung. Oleh karena itu, penting bagi peternak walet untuk mengetahui cara mengatasi masalah yang sering terjadi pada burung walet. Berikut beberapa masalah umum pada burung walet dan cara mengatasinya:</p>
+<p>Swiftlet is a very valuable livestock animal because it produces swallow nests, which are used as raw materials in the food and cosmetic industries. However, swiftlets are also susceptible to various diseases and disorders, which can disrupt the production of swiftlet nests and threaten the health of birds. Therefore, it is important for swiftlet breeders to know how to deal with problems that often occur in swiftlets. Here are some common problems with swallows and how to deal with them:</p>
 <ol>
-<li>
-<p><strong>Penyakit Respirasi</strong>: Penyakit respirasi pada burung walet dapat disebabkan oleh berbagai faktor, seperti virus, bakteri, jamur, atau parasit. Gejala umum dari penyakit respirasi pada burung walet adalah sesak napas, batuk, bersin, dan produksi lendir yang berlebihan. Untuk mengatasi penyakit respirasi, Anda dapat memberikan antibiotik dan obat antiinflamasi kepada burung walet. Selain itu, pastikan kebersihan kandang dan ventilasi yang cukup untuk menghindari penyebaran penyakit.</p>
-</li>
-<li>
-<p><strong>Gangguan Pernapasan</strong>: Gangguan pernapasan pada burung walet dapat disebabkan oleh udara yang terlalu lembab, debu, atau asap. Gejala umum dari gangguan pernapasan pada burung walet adalah sesak napas dan batuk. Untuk mengatasi gangguan pernapasan, pastikan ventilasi kandang cukup dan hindari penggunaan bahan kimia atau produk pembersih yang berbahaya.</p>
-</li>
-<li>
-<p><strong>Penyakit Kuku dan Jari</strong>: Penyakit kuku dan jari pada burung walet dapat disebabkan oleh infeksi bakteri atau jamur, atau oleh kekurangan nutrisi. Gejala umum dari penyakit kuku dan jari pada burung walet adalah perubahan warna atau bentuk kuku, sakit ketika berjalan atau bergerak, dan pembengkakan. Untuk mengatasi penyakit kuku dan jari, pastikan kebersihan kandang dan berikan makanan yang seimbang dan mengandung nutrisi yang cukup.</p>
-</li>
-<li>
-<p><strong>Stres</strong>: Stres pada burung walet dapat disebabkan oleh berbagai faktor, seperti lingkungan yang tidak sesuai, kekurangan makanan dan air, atau kehadiran predator. Gejala umum dari stres pada burung walet adalah penurunan produksi sarang walet, kehilangan bulu, dan perubahan perilaku. Untuk mengatasi stres, pastikan kondisi kandang yang nyaman dan aman, serta berikan makanan dan air yang cukup.</p>
-</li>
-<li>
-<p><strong>Gangguan Reproduksi</strong>:</p>
-<p>Gangguan reproduksi pada burung walet dapat memengaruhi produksi sarang, sehingga perlu diperhatikan dengan serius. Beberapa gangguan reproduksi yang sering terjadi pada burung walet antara lain:</p>
-<h6>a. Telur Tidak Menetas</h6>
-<p>Telur yang tidak menetas dapat disebabkan oleh beberapa faktor seperti telur yang tidak dibuahi, telur yang tidak matang, atau penyakit yang menyerang telur. Jika hal ini terjadi, sebaiknya segera membuang telur yang tidak menetas untuk mencegah terjadinya infeksi pada sarang.</p>
-<h6>b. Telur Pecah</h6>
-<p>Telur yang pecah dapat terjadi akibat beberapa faktor seperti suhu yang tidak stabil, perlakuan yang kasar pada sarang, atau kelembapan yang terlalu tinggi. Jika hal ini terjadi, segera bersihkan sarang dan ganti telur yang pecah dengan telur yang baru.</p>
-<h6>c. Burung Tidak Bertelur</h6>
-<p>Jika burung tidak bertelur dalam kurun waktu yang lama, perlu diperhatikan beberapa faktor seperti kurangnya nutrisi, umur burung yang sudah tua, atau kondisi lingkungan yang tidak mendukung. Sebaiknya lakukan perawatan yang baik pada burung walet, seperti memberikan makanan yang seimbang, menjaga kebersihan sarang, dan memberikan lingkungan yang nyaman.</p>
-<h6>d. Telur yang Tidak Sehat</h6>
-<p>Telur yang tidak sehat dapat disebabkan oleh beberapa faktor seperti burung yang menderita penyakit, nutrisi yang tidak seimbang, atau kondisi lingkungan yang tidak mendukung. Jika telur yang dihasilkan burung walet tidak sehat, sebaiknya telur tersebut tidak dikonsumsi atau dijual, karena dapat membahayakan kesehatan konsumen.</p>
+<li><strong>Respiratory Disease</strong>: Respiratory disease in swallows can be caused by various factors, such as viruses, bacteria, fungi, or parasites. Common symptoms of respiratory disease in swiftlets are shortness of breath, coughing, sneezing and excessive mucus production. To treat respiratory diseases, you can give antibiotics and anti-inflammatory drugs to swallows. In addition, ensure the cleanliness of the cage and adequate ventilation to avoid spreading disease.</li>
+<li><strong>Respiratory Disorders</strong>: Respiratory disorders in swallows can be caused by air that is too humid, dust, or smoke. Common symptoms of respiratory problems in swallows are shortness of breath and coughing. To treat respiratory problems, ensure adequate ventilation of the cage and avoid using harmful chemicals or cleaning products.</li>
+<li><strong>Nail and Finger Disease</strong>: Nail and finger disease in swiftlets can be caused by bacterial or fungal infections, or by nutritional deficiencies. Common symptoms of finger and nail disease in swiftlets are changes in the color or shape of the nails, pain when walking or moving, and swelling. To treat nail and finger disease, ensure the cleanliness of the cage and provide a balanced diet with adequate nutrition.</li>
+<li><strong>Stress</strong>: Stress in swallows can be caused by a variety of factors, such as an unsuitable environment, a lack of food and water, or the presence of predators. Common symptoms of stress on swallows are decreased production of swiftlet nests, loss of feathers, and changes in behavior. To deal with stress, make sure the cage conditions are comfortable and safe, and provide enough food and water.</li>
+<li><strong>Reproductive Disorders</strong>: Reproductive disorders in swallows can affect nest production, so they need to be taken seriously. Some of the reproductive disorders that often occur in swallows include:
+<ol>
+<li>Eggs Not Hatching: Unhatched eggs can be caused by several factors such as unfertilized eggs, immature eggs, or diseases that attack the eggs. If this happens, it is best to immediately dispose of the unhatched eggs to prevent infection of the nest.</li>
+<li>Broken egg: Cracked eggs can occur due to several factors such as unstable temperatures, rough treatment of the nest, or humidity that is too high. If this happens, immediately clean the nest and replace the broken eggs with new eggs.</li>
+<li>Birds Don&#8217;t Lay Eggs: If birds don&#8217;t lay eggs for a long time, several factors need to be considered, such as lack of nutrition, old birds, or unfavorable environmental conditions. It&#8217;s best to take good care of swallows, such as providing a balanced diet, keeping the nest clean, and providing a comfortable environment.</li>
+<li>Unhealthy Eggs: Unhealthy eggs can be caused by several factors such as diseased birds, unbalanced nutrition, or unsupportive environmental conditions. If the eggs produced by swiftlets are unhealthy, these eggs should not be consumed or sold, because they can endanger the health of consumers.</li>
+</ol>
 </li>
 </ol>
-<p><strong>Kesimpulan</strong></p>
-<p>Merawat burung walet memang membutuhkan perhatian yang serius, termasuk dalam mengatasi masalah yang mungkin terjadi seperti penyakit dan gangguan reproduksi. Sebagai pemilik sarang walet, penting untuk selalu memantau kesehatan burung dan sarang, memberikan makanan yang seimbang, serta menjaga kebersihan lingkungan sekitar sarang. Dengan demikian, produksi sarang walet dapat terjaga dengan baik dan memberikan manfaat yang optimal.</p>
-<p> </p>
+<p><strong>Conclusion</strong></p>
+<p>Caring for swallows does require serious attention, including dealing with possible problems such as disease and reproductive disorders. As the owner of a swallow&#8217;s nest, it is important to always monitor the health of birds and nests, provide a balanced diet, and maintain the cleanliness of the environment around the nest. Thus, the production of swallow nests can be maintained properly and provide optimal benefits.</p>
 </div>
 </div>
 </div>
@@ -111,22 +102,22 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/cara-mengatasi-masalah-pada-burung-walet-penyakit-dan-gangguan-umum-yang-sering-terjadi.html/feed</wfw:commentRss>
+					<wfw:commentRss>/how-to-solve-problems-in-swallows-common-diseases-and-disorders-that-often-occur/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Pelatihan Walet dan Platform Training Walet: Biaya, Ketersediaan, dan Materi Pelatihan</title>
-		<link>/pelatihan-walet-dan-platform-training-walet-biaya-ketersediaan-dan-materi-pelatihan.html</link>
-					<comments>/pelatihan-walet-dan-platform-training-walet-biaya-ketersediaan-dan-materi-pelatihan.html#respond</comments>
+		<title>Platform Pelatihan Walet: Costs, Availability, and Training Materials.</title>
+		<link>/platform-pelatihan-walet-costs-availability-and-training-materials</link>
+					<comments>/platform-pelatihan-walet-costs-availability-and-training-materials#respond</comments>
 		
 		<dc:creator><![CDATA[raulilma]]></dc:creator>
 		<pubDate>Mon, 27 Feb 2023 06:36:24 +0000</pubDate>
 				<category><![CDATA[Burung Walet]]></category>
-		<guid isPermaLink="false">/?p=789</guid>
+		<guid isPermaLink="false">http://trainingwalet.test/?p=789</guid>
 
-					<description><![CDATA[Pelatihan walet semakin populer di kalangan pengusaha walet karena membantu mereka meningkatkan hasil produksi dan kualitas sarang walet. Namun, tidak semua orang tahu tentang biaya pelatihan, ketersediaan, dan materi pelatihan apa saja yang disediakan. Berikut adalah informasi lengkap yang dapat membantu Anda lebih memahami pelatihan walet dan platform Training Walet. Biaya Pelatihan Walet dan Platform &#8230;<p class="read-more"> <a class="" href="/pelatihan-walet-dan-platform-training-walet-biaya-ketersediaan-dan-materi-pelatihan.html"> <span class="screen-reader-text">Pelatihan Walet dan Platform Training Walet: Biaya, Ketersediaan, dan Materi Pelatihan</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Pelatihan Walet is becoming increasingly popular among swiftlet entrepreneurs as it helps them improve their production results and the quality of swiftlet nests. However, not everyone is aware of the costs, availability, and training materials offered by swiftlet training providers. Here is complete information that can help you better understand Pelatihan Walet. Cost of Pelatihan &#8230;<p class="read-more"> <a class="" href="/platform-pelatihan-walet-costs-availability-and-training-materials"> <span class="screen-reader-text">Platform Pelatihan Walet: Costs, Availability, and Training Materials.</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="789" class="elementor elementor-789">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-743e694d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="743e694d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -147,34 +138,21 @@
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
 <div class="markdown prose w-full break-words dark:prose-invert light">
-<p>Pelatihan walet semakin populer di kalangan pengusaha walet karena membantu mereka meningkatkan hasil produksi dan kualitas sarang walet. Namun, tidak semua orang tahu tentang biaya pelatihan, ketersediaan, dan materi pelatihan apa saja yang disediakan. Berikut adalah informasi lengkap yang dapat membantu Anda lebih memahami pelatihan walet dan platform Training Walet.</p>
-<p><strong>Biaya Pelatihan Walet dan Platform yang Digunakan</strong></p>
-<p>Biaya pelatihan walet bervariasi tergantung pada jenis pelatihan dan penyedia pelatihan. Ada beberapa penyedia pelatihan walet di Indonesia yang menyediakan berbagai jenis pelatihan, seperti pelatihan budidaya, manajemen sarang, dan pengolahan sarang walet. Biaya pelatihan berkisar antara beberapa ratus ribu hingga beberapa juta rupiah.</p>
-<p>Selain biaya pelatihan, Anda juga harus mempertimbangkan biaya untuk platform yang digunakan. Salah satu platform pelatihan walet yang terkenal adalah Training Walet. Biaya berlangganan Training Walet tergantung pada paket yang Anda pilih, mulai dari beberapa ratus ribu hingga beberapa juta rupiah per bulan.</p>
-<p><strong>Tersedia di Kota Apa Saja</strong></p>
-<p>Pelatihan walet tersedia di banyak kota di Indonesia, seperti Jakarta, Bandung, Surabaya, Yogyakarta, dan Bali. Namun, dengan adanya platform pelatihan walet seperti Training Walet, Anda dapat mengakses pelatihan dari mana saja, asalkan Anda memiliki koneksi internet yang stabil.</p>
-<p><strong>Apa Saja yang Tersedia dalam Pelatihan</strong></p>
-<p>Pelatihan walet biasanya terdiri dari beberapa sesi atau modul yang mencakup berbagai aspek dari budidaya, manajemen, hingga pengolahan sarang walet. Beberapa topik yang sering dibahas dalam pelatihan walet, antara lain:</p>
-<ol>
-<li>Perencanaan dan pengelolaan budidaya walet</li>
-<li>Perawatan dan pengelolaan sarang walet</li>
-<li>Pemilihan dan penempatan rumah burung walet</li>
-<li>Pemilihan jenis walet untuk budidaya</li>
-<li>Pengolahan sarang walet</li>
-<li>Pengenalan teknologi dalam budidaya walet</li>
-</ol>
-<p><strong>Kelebihan Platform Training Walet</strong></p>
-<p>Training Walet merupakan platform pelatihan walet yang memungkinkan pengusaha walet mengakses pelatihan dari mana saja dan kapan saja. Beberapa kelebihan dari Training Walet antara lain:</p>
-<ol>
-<li>Materi pelatihan yang lengkap dan terstruktur</li>
-<li>Pembelajaran yang dapat disesuaikan dengan kebutuhan Anda</li>
-<li>Tersedia berbagai paket pelatihan dengan harga yang terjangkau</li>
-<li>Dapat diakses dari mana saja dan kapan saja</li>
-<li>Didukung oleh tim ahli walet yang berpengalaman</li>
-</ol>
-<p>Dapat disimpulkan bahwa Training Walet merupakan suatu platform pelatihan yang sangat bermanfaat bagi para calon pengusaha walet yang ingin memulai bisnis mereka sendiri. Pelatihan yang disediakan oleh platform ini sangat lengkap, mulai dari teknik breeding burung walet, teknik membangun rumah burung walet, teknik pemanenan sarang walet hingga teknik pemasaran sarang walet. Biaya pelatihan yang terjangkau serta ketersediaan pelatihan di berbagai kota di Indonesia menjadikan platform Training Walet sebagai pilihan yang tepat untuk meningkatkan pengetahuan dan keterampilan dalam bisnis walet.</p>
-<p>Selain itu, kelebihan lain dari platform ini adalah tersedianya materi-materi pelatihan yang up-to-date dan dapat diakses secara online kapan saja dan di mana saja. Hal ini memudahkan para peserta pelatihan untuk belajar tanpa harus repot-repot datang ke tempat pelatihan. Para peserta pelatihan juga akan mendapatkan sertifikat setelah menyelesaikan pelatihan, yang dapat menjadi nilai tambah dalam mencari investor atau mitra bisnis.</p>
-<p>Oleh karena itu, bagi calon pengusaha walet yang ingin memulai bisnis mereka, platform Training Walet sangat direkomendasikan. Dengan biaya yang terjangkau, pelatihan yang lengkap, serta kemudahan dalam mengakses materi pelatihan secara online, platform ini akan membantu meningkatkan pengetahuan dan keterampilan dalam bisnis walet, sehingga dapat membantu mencapai kesuksesan dalam bisnis tersebut.</p>
+<p>Pelatihan Walet is becoming increasingly popular among swiftlet entrepreneurs as it helps them improve their production results and the quality of swiftlet nests. However, not everyone is aware of the costs, availability, and training materials offered by swiftlet training providers. Here is complete information that can help you better understand Pelatihan Walet.</p>
+<p><strong>Cost of Pelatihan Walet</strong></p>
+<p>The cost of Pelatihan Walet varies depending on the type of training and training provider. There are several swiftlet training providers in Indonesia that offer various types of training, such as cultivation training, nest management, and nest processing. The cost of training ranges from several hundred thousand to several million rupiahs.</p>
+<p>In addition to the cost of training, you should also consider the cost of the platform used. One of the popular swiftlet training platforms is the Pelatihan Walet Platform. The subscription cost for the Pelatihan Walet Platform depends on the package you choose, ranging from several hundred thousand to several million rupiahs per month.</p>
+<p><strong>Available in Which Cities</strong></p>
+<p>Pelatihan Walet is available in many cities in Indonesia, such as Jakarta, Bandung, Surabaya, Yogyakarta, and Bali. However, with the existence of swiftlet training platforms such as Pelatihan Walet, you can access training from anywhere as long as you have a stable internet connection.</p>
+<p><strong>What&#8217;s Available in the Training</strong></p>
+<p>Pelatihan Walet usually consists of several sessions or modules that cover various aspects of breeding, management, and processing of swiftlet nests. Some of the topics that are often covered in swiftlet training include:</p>
+<p>Planning and managing swiftlet breeding Care and management of swiftlet nests Selection and placement of swiftlet birdhouses Selection of swiftlet species for breeding Processing of swiftlet nests Introduction to technology in swiftlet breeding</p>
+<p><strong>Advantages of the Pelatihan Walet Platform</strong></p>
+<p>Pelatihan Walet is a swiftlet training platform that allows swiftlet entrepreneurs to access training from anywhere and anytime. Some of the advantages of Pelatihan Walet include:</p>
+<p>Complete and structured training materials Learning that can be tailored to your needs Various training packages available at affordable prices Accessible from anywhere and anytime Supported by experienced swiftlet experts</p>
+<p>In conclusion, Pelatihan Walet is a very useful training platform for aspiring swiftlet entrepreneurs who want to start their own business. The training provided by this platform is very complete, ranging from breeding techniques for swiftlet birds, building techniques for swiftlet birdhouses, harvesting techniques for swiftlet nests to marketing techniques for swiftlet nests. Affordable training costs and availability of training in various cities in Indonesia make the Pelatihan Walet platform a suitable choice for improving knowledge and skills in the swiftlet business.</p>
+<p>In addition, another advantage of this platform is the availability of up-to-date training materials that can be accessed online anytime and anywhere. This makes it easier for participants to learn without having to come to the training location. Participants will also receive a certificate after completing the training, which can be an added value in finding investors or business partners.</p>
+<p>Therefore, for aspiring swiftlet entrepreneurs who want to start their business, the Pelatihan Walet platform is highly recommended. With affordable costs, complete training, and ease of accessing training materials online, this platform will help improve knowledge and skills in the swiftlet business, thus helping to achieve success in the business.</p>
 </div>
 </div>
 </div>
@@ -196,22 +174,22 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/pelatihan-walet-dan-platform-training-walet-biaya-ketersediaan-dan-materi-pelatihan.html/feed</wfw:commentRss>
+					<wfw:commentRss>/platform-pelatihan-walet-costs-availability-and-training-materials/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Tips Sukses Panen Sarang Walet: Jam Terbaik, Usia Burung, dan Pasar Ekspor</title>
-		<link>/tips-sukses-panen-sarang-walet-jam-terbaik-usia-burung-dan-pasar-ekspor.html</link>
-					<comments>/tips-sukses-panen-sarang-walet-jam-terbaik-usia-burung-dan-pasar-ekspor.html#respond</comments>
+		<title>Tips for Successful Harvesting of Bird&#8217;s Nest: Best Time, Bird&#8217;s Age, and Export Market</title>
+		<link>/tips-for-successful-harvesting-of-birds-nest-best-time-birds-age-and-export-market</link>
+					<comments>/tips-for-successful-harvesting-of-birds-nest-best-time-birds-age-and-export-market#respond</comments>
 		
 		<dc:creator><![CDATA[raulilma]]></dc:creator>
 		<pubDate>Mon, 27 Feb 2023 04:41:49 +0000</pubDate>
 				<category><![CDATA[Burung Walet]]></category>
-		<guid isPermaLink="false">/?p=779</guid>
+		<guid isPermaLink="false">http://trainingwalet.test/?p=779</guid>
 
-					<description><![CDATA[Memiliki usaha di bidang walet memerlukan perhatian yang cukup serius terutama dalam hal penentuan waktu panen yang tepat. Karena waktu yang tepat untuk panen akan berpengaruh pada kualitas sarang yang dihasilkan dan hasil yang diperoleh. Ada beberapa faktor yang perlu dipertimbangkan dalam menentukan waktu panen yang tepat, di antaranya adalah suhu ruangan, kondisi cuaca, kondisi &#8230;<p class="read-more"> <a class="" href="/tips-sukses-panen-sarang-walet-jam-terbaik-usia-burung-dan-pasar-ekspor.html"> <span class="screen-reader-text">Tips Sukses Panen Sarang Walet: Jam Terbaik, Usia Burung, dan Pasar Ekspor</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Running a business in the swiftlet industry requires serious attention, especially in determining the right time for harvesting. The timing for harvesting is crucial as it affects the quality of the produced nests and the yield obtained. There are several factors to consider in determining the right harvesting time, including room temperature, weather conditions, nest &#8230;<p class="read-more"> <a class="" href="/tips-for-successful-harvesting-of-birds-nest-best-time-birds-age-and-export-market"> <span class="screen-reader-text">Tips for Successful Harvesting of Bird&#8217;s Nest: Best Time, Bird&#8217;s Age, and Export Market</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="779" class="elementor elementor-779">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-743e694d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="743e694d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -232,20 +210,22 @@
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
 <div class="markdown prose w-full break-words dark:prose-invert light">
-<p>Memiliki usaha di bidang walet memerlukan perhatian yang cukup serius terutama dalam hal penentuan waktu panen yang tepat. Karena waktu yang tepat untuk panen akan berpengaruh pada kualitas sarang yang dihasilkan dan hasil yang diperoleh. Ada beberapa faktor yang perlu dipertimbangkan dalam menentukan waktu panen yang tepat, di antaranya adalah suhu ruangan, kondisi cuaca, kondisi sarang, serta jumlah burung yang dipelihara.</p>
-<p>Menurut pengalaman para peternak walet yang sukses, waktu terbaik untuk melakukan panen adalah pada pagi hari sekitar jam 5 hingga jam 8. Pada saat itu suhu udara masih sejuk dan kondisi sarang belum terlalu kering. Selain itu, burung walet juga sudah terbang keluar untuk mencari makanan di pagi hari sehingga tidak mengganggu saat panen dilakukan. Namun, setiap peternak memiliki pengalaman yang berbeda-beda dalam menentukan waktu panen yang tepat sesuai dengan kondisi lingkungan dan kandang yang dimiliki.</p>
-<p><strong>Jam Terbaik untuk Panen Sarang Walet</strong></p>
-<p>Panen sarang walet sebaiknya dilakukan pada waktu yang tepat agar kualitas dan kuantitas hasil panen maksimal. Beberapa ahli menyarankan untuk melakukan panen pada pagi hari atau sore hari, saat burung walet masih aktif dan keluar masuk grotto secara rutin. Selain itu, kondisi cuaca juga perlu diperhatikan. Jangan melakukan panen saat cuaca buruk seperti hujan atau angin kencang, karena hal tersebut dapat mengganggu keseimbangan lingkungan di dalam grotto dan mempengaruhi kualitas sarang yang dihasilkan.</p>
-<p><strong>Usia Burung Walet dan Siklus Hidupnya</strong></p>
-<p>Mengetahui umur burung walet penting dalam menjalankan usaha di bidang walet. Usia burung walet biasanya mencapai puncak produktivitas pada usia 3 hingga 4 tahun. Setelah mencapai usia tersebut, produksi sarang burung walet akan mulai menurun. Oleh karena itu, perlu dilakukan penambahan populasi burung walet untuk menjaga produktivitas sarang yang dihasilkan.</p>
-<p>Siklus hidup burung walet sendiri terbagi menjadi beberapa fase, yaitu fase perkembangan, fase reproduksi, fase pertumbuhan, dan fase istirahat. Setiap fase memiliki kebutuhan nutrisi yang berbeda-beda. Oleh karena itu, pemilik usaha walet perlu mengetahui fase siklus hidup burung walet agar dapat memberikan pakan dan nutrisi yang tepat sesuai dengan kebutuhan burung walet pada setiap fase.</p>
-<p><strong>Pasar Ekspor Sarang Walet</strong></p>
-<p>Sarang walet merupakan produk ekspor yang memiliki permintaan yang tinggi di pasar internasional, terutama di Asia Timur seperti China, Hong Kong, dan Taiwan. Selain itu, negara-negara seperti Amerika Serikat, Eropa, dan Australia juga menjadi pasar potensial bagi produk sarang walet. Para pelaku usaha dapat menjual sarang walet secara langsung ke luar negeri atau melalui perantara atau agen ekspor. Namun, sebelum memulai ekspor, perlu memahami regulasi dan persyaratan ekspor yang berlaku di negara tujuan, serta melakukan pengecekan kualitas dan standar produksi yang diperlukan.</p>
-<p><strong>Kesimpulan</strong></p>
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Running a business in the swiftlet industry requires serious attention, especially in determining the right time for harvesting. The timing for harvesting is crucial as it affects the quality of the produced nests and the yield obtained. There are several factors to consider in determining the right harvesting time, including room temperature, weather conditions, nest conditions, and the number of birds being raised.</p>
+<p>According to successful swiftlet breeders, the best time for harvesting is in the morning around 5 to 8 a.m. At that time, the air temperature is still cool, and the nest conditions are not too dry. In addition, swiftlet birds have flown out to search for food in the morning, so they do not disturb the harvesting process. However, each breeder has different experiences in determining the right harvesting time according to their environmental and coop conditions.</p>
+<p><strong>Best Time for Harvesting Swiftlet Nests</strong></p>
+<p>Harvesting swiftlet nests should be done at the right time to ensure maximum quality and quantity of the yield. Some experts suggest that harvesting should be done in the morning or late afternoon when swiftlet birds are still active and routinely entering and exiting the grotto. In addition, weather conditions also need to be considered. Do not harvest during bad weather such as rain or strong winds, as it can disturb the environmental balance in the grotto and affect the quality of the produced nests.</p>
+<p><strong>Age of Swiftlet Birds and Their Life Cycle</strong></p>
+<p>Knowing the age of swiftlet birds is important in running a swiftlet business. Swiftlet birds usually reach peak productivity at the age of 3 to 4 years. After reaching that age, the production of swiftlet nests will start to decline. Therefore, adding the swiftlet bird population is necessary to maintain the productivity of the produced nests.</p>
+<p>The life cycle of swiftlet birds is divided into several phases, namely development, reproduction, growth, and rest phases. Each phase has different nutritional needs. Therefore, swiftlet business owners need to understand the life cycle phases of swiftlet birds to provide the right feed and nutrition according to the needs of the birds in each phase.</p>
+<p><strong>Export Market for Swiftlet Nests</strong></p>
+<p>Swiftlet nests are an export product with high demand in the international market, especially in East Asia such as China, Hong Kong, and Taiwan. In addition, countries such as the United States, Europe, and Australia are also potential markets for swiftlet nest products. Business operators can sell swiftlet nests directly abroad or through intermediaries or export agents. However, before starting exports, it is necessary to understand the regulations and export requirements in the destination country and conduct quality checks and required production standards.</p>
+<p><strong>Conclusion</strong></p>
+<p>After learning about the swiftlet industry, we can conclude that swiftlet business can be a profitable opportunity with affordable capital. However, to achieve optimal results, several important factors need to be considered, such as the right harvesting time, good swiftlet bird maintenance, and the selection of the correct swiftlet nest processing method.</p>
+<p>In addition, we also need to pay attention to regulations and halal certification to ensure that the produced swiftlet nests are acceptable in the global market and meet the needs of consumers who are increasingly aware of the quality of halal and safe products.</p>
+<p>To further explore the swiftlet industry, there is a Training Walet platform that can provide training and guidance on swiftlet bird maintenance, swiftlet nest processing, and comprehensive swiftlet business development. By obtaining deeper knowledge about the swiftlet industry, we can increase the chance of success in running a promising business in this industry.</p>
 </div>
-<p>Setelah mempelajari informasi mengenai industri walet, kita dapat menyimpulkan bahwa berbisnis walet dapat menjadi peluang bisnis yang menguntungkan dengan modal yang cukup terjangkau. Namun, untuk mencapai hasil yang optimal, perlu diperhatikan beberapa faktor penting seperti waktu panen yang tepat, pemeliharaan burung walet yang baik, dan pemilihan metode pengolahan sarang burung walet yang benar.</p>
-<p>Selain itu, kita juga perlu memperhatikan regulasi dan sertifikasi halal untuk memastikan sarang burung walet yang dihasilkan dapat diterima oleh pasar global dan memenuhi kebutuhan konsumen yang semakin sadar akan kualitas produk yang halal dan aman dikonsumsi.</p>
-<p>Untuk mengeksplor lebih lanjut mengenai industri walet, terdapat platform Training Walet yang dapat memberikan pelatihan dan panduan mengenai pemeliharaan burung walet, pengolahan sarang burung walet, serta pengembangan bisnis walet secara komprehensif. Dengan memperoleh pengetahuan yang lebih mendalam mengenai industri walet, kita dapat meningkatkan peluang kesuksesan dalam berbisnis di industri yang menjanjikan ini.</p>
+</div>
 </div>
 </div>
 </div>
@@ -266,22 +246,22 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/tips-sukses-panen-sarang-walet-jam-terbaik-usia-burung-dan-pasar-ekspor.html/feed</wfw:commentRss>
+					<wfw:commentRss>/tips-for-successful-harvesting-of-birds-nest-best-time-birds-age-and-export-market/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Inilah Fakta Mengejutkan tentang Burung Walet yang Harus Kamu Ketahui! Apa yang Disukai untuk Dimakan, Kenapa Harganya Mahal, dan Banyak Lagi!</title>
-		<link>/inilah-fakta-mengejutkan-tentang-burung-walet-yang-harus-kamu-ketahui-apa-yang-disukai-untuk-dimakan-kenapa-harganya-mahal-dan-banyak-lagi.html</link>
-					<comments>/inilah-fakta-mengejutkan-tentang-burung-walet-yang-harus-kamu-ketahui-apa-yang-disukai-untuk-dimakan-kenapa-harganya-mahal-dan-banyak-lagi.html#respond</comments>
+		<title>Here are the Shocking Facts about Swallows that You Need to Know! What They Like to Eat, Why They are Expensive and Much More!</title>
+		<link>/here-are-the-shocking-facts-about-swallows-that-you-need-to-know-what-they-like-to-eat-why-they-are-expensive-and-much-more</link>
+					<comments>/here-are-the-shocking-facts-about-swallows-that-you-need-to-know-what-they-like-to-eat-why-they-are-expensive-and-much-more#respond</comments>
 		
 		<dc:creator><![CDATA[raulilma]]></dc:creator>
 		<pubDate>Mon, 27 Feb 2023 04:15:12 +0000</pubDate>
 				<category><![CDATA[Burung Walet]]></category>
-		<guid isPermaLink="false">/?p=761</guid>
+		<guid isPermaLink="false">http://trainingwalet.test/?p=761</guid>
 
-					<description><![CDATA[Burung walet adalah hewan kecil yang terkenal akan sarangnya yang berharga dan menjadi bahan utama dalam industri makanan dan minuman mewah. Namun, meskipun sudah banyak diketahui mengenai nilai ekonomis dari sarang burung walet, masih banyak hal yang belum diketahui mengenai burung walet itu sendiri. Misalnya, apa yang disukai untuk dimakan burung walet dan mengapa harga &#8230;<p class="read-more"> <a class="" href="/inilah-fakta-mengejutkan-tentang-burung-walet-yang-harus-kamu-ketahui-apa-yang-disukai-untuk-dimakan-kenapa-harganya-mahal-dan-banyak-lagi.html"> <span class="screen-reader-text">Inilah Fakta Mengejutkan tentang Burung Walet yang Harus Kamu Ketahui! Apa yang Disukai untuk Dimakan, Kenapa Harganya Mahal, dan Banyak Lagi!</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[The swiftlet is a small bird known for its valuable nests that are used in the luxury food and beverage industry. However, despite the well-known economic value of swiftlet nests, there is still much to learn about the bird itself. For example, what do swiftlets like to eat and why is their saliva so expensive? &#8230;<p class="read-more"> <a class="" href="/here-are-the-shocking-facts-about-swallows-that-you-need-to-know-what-they-like-to-eat-why-they-are-expensive-and-much-more"> <span class="screen-reader-text">Here are the Shocking Facts about Swallows that You Need to Know! What They Like to Eat, Why They are Expensive and Much More!</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="761" class="elementor elementor-761">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-743e694d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="743e694d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -289,42 +269,44 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-55dbeb3d elementor-widget elementor-widget-text-editor" data-id="55dbeb3d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><!-- wp:paragraph --></p>
-<p><span style="font-size: 16px;">Burung walet adalah hewan kecil yang terkenal akan sarangnya yang berharga dan menjadi bahan utama dalam industri makanan dan minuman mewah. Namun, meskipun sudah banyak diketahui mengenai nilai ekonomis dari sarang burung walet, masih banyak hal yang belum diketahui mengenai burung walet itu sendiri. Misalnya, apa yang disukai untuk dimakan burung walet dan mengapa harga liurnya bisa sangat mahal? Berapa lama usia burung walet dan apa tanda-tanda keberadaannya? Apakah sarang burung walet halal dan apa yang membuatnya begitu istimewa? Artikel ini akan menjawab semua pertanyaan tersebut dan membuka lebih banyak informasi tentang burung walet yang sering dianggap sebagai hewan misterius dan eksotis.</span></p>
-<p><strong>Apa yang Disukai untuk Dimakan Burung Walet?</strong></p>
-<p>Burung walet dikenal sebagai burung yang sangat khusus dalam memilih makanannya. Mereka hanya memakan jenis makanan tertentu yang memungkinkan mereka menghasilkan air liur untuk membangun sarang mereka. Beberapa jenis makanan yang disukai oleh burung walet antara lain adalah lalat, ngengat, dan serangga terbang lainnya. Selain itu, mereka juga memakan nektar bunga yang memiliki kandungan gula tinggi.</p>
-<p>Seiring dengan berkembangnya industri sarang burung walet, beberapa peternak bahkan mencoba memberikan makanan tambahan untuk meningkatkan produksi air liur dari burung walet. Beberapa jenis makanan tambahan yang diberikan antara lain adalah makanan laut seperti ikan teri dan udang kecil, madu, dan bahan-bahan herbal tertentu.</p>
-<p><strong>Apa yang Mahal dari Burung Walet?</strong></p>
-<p>Burung walet dikenal sebagai burung yang memiliki nilai ekonomi yang tinggi karena sarangnya yang digunakan untuk bahan makanan dan obat-obatan. Salah satu alasan mengapa burung walet dihargai tinggi adalah karena burung ini hanya dapat membuat sarangnya di tempat-tempat tertentu seperti gua-gua dan bangunan yang memiliki kondisi lingkungan yang khusus.</p>
-<p>Selain itu, burung walet juga memiliki masa hidup yang pendek, yakni sekitar 4-5 tahun. Hal ini menyebabkan sulitnya memelihara burung walet dan membuatnya semakin langka dan mahal.</p>
-<p><strong>Berapa Lama Usia Burung Walet?</strong></p>
-<p>Burung walet memiliki masa hidup yang relatif pendek, yakni sekitar 4-5 tahun. Meskipun demikian, burung walet memiliki kecepatan reproduksi yang tinggi sehingga populasi mereka tetap stabil.</p>
-<p>Burung walet biasanya mulai berkembang biak pada usia sekitar 2 tahun. Proses pembuahan dan pengeraman telur dilakukan oleh kedua induk burung walet. Setelah telur menetas, anak burung walet akan diberi makan dengan air liur oleh induknya hingga mampu terbang dan mencari makanan sendiri.</p>
-<p><strong>Kenapa Harga Liur Walet Mahal?</strong></p>
-<p>Harga liur burung walet sangat mahal karena proses pengambilannya yang memerlukan perhatian khusus dan risiko tinggi. Para penjaga sarang burung walet harus menaiki tempat-tempat yang berbahaya seperti tebing curam atau gua-gua yang gelap dan berbahaya.</p>
-<p>Selain itu, pengambilan sarang burung walet harus dilakukan dengan sangat hati-hati agar tidak merusak sarang atau membahayakan burung walet itu sendiri. Hal ini menambah tingginya risiko pengambilan sarang burung walet dan akhirnya mempengaruhi harga jual liurnya.</p>
-<p> </p>
-<p><strong>Apakah Sarang Burung Walet Halal?</strong></p>
-<p>Sarang burung walet merupakan makanan mewah yang memiliki harga yang sangat mahal. Selain itu, sarang burung walet juga sering menjadi pilihan konsumsi bagi orang-orang yang ingin menjaga kesehatannya. Namun, banyak yang masih bertanya-tanya apakah sarang burung walet halal dikonsumsi oleh umat Muslim.</p>
-<p>Menurut Fatwa Majelis Ulama Indonesia (MUI), sarang burung walet dinyatakan halal dikonsumsi. Hal ini didasarkan pada fakta bahwa sarang burung walet dibentuk dari liur burung walet dan tidak ada unsur haram yang tercampur di dalamnya.</p>
-<p><strong>Banyak Burung Walet Pertanda Apa?</strong></p>
-<p>Burung walet selain terkenal dengan sarangnya yang mahal, juga dipercaya membawa pertanda bagi pemilik rumah atau tempat sarang walet tersebut berada. Banyaknya burung walet yang datang dan bersarang di suatu tempat dipercaya membawa beberapa pertanda, antara lain:</p>
-<ol>
-<li>
-<p><strong>Pertanda keberuntungan</strong>: Banyaknya burung walet yang bersarang di suatu tempat dipercaya membawa keberuntungan bagi pemilik rumah atau tempat tersebut.</p>
-</li>
-<li>
-<p><strong>Pertanda kesejahteraan</strong>: Banyaknya burung walet yang bersarang di suatu tempat juga dipercaya membawa kesejahteraan bagi pemilik rumah atau tempat tersebut.</p>
-</li>
-<li>
-<p><strong>Pertanda kesuburan:</strong> Kehadiran burung walet juga dipercaya membawa pertanda kesuburan bagi pemilik rumah atau tempat tersebut.</p>
-</li>
-</ol>
-<p>Setelah membaca artikel di atas, dapat disimpulkan bahwa burung walet merupakan salah satu burung yang memiliki banyak manfaat, terutama pada sarangnya yang dianggap sebagai bahan makanan dan obat-obatan yang memiliki nilai ekonomis tinggi. Sarang burung walet juga telah diakui secara internasional sebagai salah satu bahan makanan yang bergizi dan sehat.</p>
-<p>Selain itu, penting untuk mencatat bahwa sarang burung walet yang dihasilkan harus dipastikan halal dan bersih. Oleh karena itu, perlu dicari informasi dan sumber yang terpercaya untuk memastikan bahwa sarang burung walet yang dikonsumsi benar-benar halal dan tidak mengandung bahan-bahan yang meragukan.</p>
-<p>Banyaknya burung walet yang mendekati atau membangun sarang di suatu tempat dapat menjadi pertanda baik atau buruk tergantung pada kepercayaan lokal. Namun, penting untuk tidak mengganggu atau mengusik sarang burung walet agar populasi burung walet tidak terganggu.</p>
-<p>Jika Anda tertarik untuk mempelajari lebih lanjut tentang burung walet dan industri sarang burung walet, Anda dapat mengeksplor lebih jauh di platform Training Walet. Di sini, Anda dapat belajar mengenai cara memulai usaha sarang burung walet, mengenali jenis-jenis burung walet, dan cara merawat sarang burung walet dengan baik dan benar.</p>
-<p><!-- /wp:paragraph --></p>						</div>
+							<div class="group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]">
+<div class="text-base gap-4 md:gap-6 md:max-w-2xl lg:max-w-2xl xl:max-w-3xl p-4 md:py-6 flex lg:px-0 m-auto">
+<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>The swiftlet is a small bird known for its valuable nests that are used in the luxury food and beverage industry. However, despite the well-known economic value of swiftlet nests, there is still much to learn about the bird itself. For example, what do swiftlets like to eat and why is their saliva so expensive? What is the lifespan of a swiftlet and what are the signs of their presence? Are swiftlet nests halal and what makes them so special? This article will answer these questions and provide more information about swiftlets, which are often regarded as mysterious and exotic animals.</p>
+<p><strong>What Do Swiftlets Like to Eat?</strong></p>
+<p>Swiftlets are known as birds that are very selective about their food. They only eat certain types of food that allow them to produce saliva to build their nests. Some of the preferred foods of swiftlets include flies, moths, and other flying insects. In addition, they also consume nectar from flowers that have high sugar content.</p>
+<p>As the swiftlet nest industry has developed, some farmers have even tried to provide additional food to increase the production of saliva from swiftlets. Some of the additional foods given include seafood such as anchovies and small shrimp, honey, and certain herbal ingredients.</p>
+<p><strong>What Makes Swiftlets Expensive?</strong></p>
+<p>Swiftlets are known as birds with high economic value due to their nests being used as food and medicine. One reason why swiftlets are highly valued is because they can only make their nests in certain places such as caves and buildings with specific environmental conditions.</p>
+<p>In addition, swiftlets have a relatively short lifespan of around 4-5 years. This makes it difficult to raise swiftlets and makes them even more rare and expensive.</p>
+<p><strong>What is the Lifespan of a Swiftlet?</strong></p>
+<p>Swiftlets have a relatively short lifespan of around 4-5 years. However, swiftlets have a high reproductive rate, which helps to maintain their population stability.</p>
+<p>The swiftlet bird usually begins to breed at around 2 years of age. The process of fertilization and egg incubation is done by both swiftlet parents. After hatching, the swiftlet chick is fed with saliva by its parents until it can fly and find food on its own.</p>
+<p><strong>Why is Swiftlet Saliva Expensive?</strong></p>
+<p>Swiftlet saliva is very expensive because of the specialized attention and high risks involved in its collection. Swiftlet nest keepers have to climb dangerous places such as steep cliffs or dark and dangerous caves.</p>
+<p>In addition, the collection of swiftlet nests must be done very carefully to avoid damaging the nests or endangering the swiftlets themselves. This adds to the high risk of swiftlet nest collection and ultimately affects the selling price of its saliva.</p>
+<p><strong>Is Swiftlet Nest Halal?</strong></p>
+<p>Swiftlet nests are a luxurious food item that is very expensive. In addition, swiftlet nests are often the choice of consumption for people who want to maintain their health. However, many still wonder whether swiftlet nests are halal for consumption by Muslims.</p>
+<p>According to the Fatwa of the Indonesian Ulema Council (MUI), swiftlet nests are declared halal for consumption. This is based on the fact that swiftlet nests are formed from swiftlet saliva and do not contain any haram elements.</p>
+<p><strong>What Does the Presence of Many Swiftlets Signify?</strong></p>
+<p>Swiftlets, besides being famous for their expensive nests, are also believed to bring signs for the owner of the house or the place where the swiftlet nest is located. The presence of many swiftlets that come and nest in a place is believed to bring several signs, including:</p>
+<p>A sign of good luck: The abundance of swiftlets that nest in a place is believed to bring good luck to the owner of the house or the place.</p>
+<p>A sign of prosperity: The abundance of swiftlets that nest in a place is also believed to bring prosperity to the owner of the house or the place.</p>
+<p>A sign of fertility: The presence of swiftlets is also believed to bring a sign of fertility to the owner of the house or the place.</p>
+<p><strong>Conclusion</strong></p>
+<p>After reading the above article, it can be concluded that swiftlets are one of the birds that have many benefits, especially in their nests which are considered as high-value food and medicinal ingredients. Swiftlet nests have also been internationally recognized as a nutritious and healthy food item.</p>
+<p>In addition, it is important to note that the swiftlet nests produced must be ensured to be halal and clean. Therefore, reliable information and sources need to be sought to ensure that the swiftlet nests consumed are truly halal and do not contain questionable ingredients.</p>
+<p>The abundance of swiftlets that approach or build nests in a place can be a good or bad sign depending on local beliefs. However, it is important not to disturb or disrupt swiftlet nests so that the swiftlet population is not disturbed.</p>
+<p>If you are interested in learning more about swiftlets and the swiftlet nest industry, you can explore further on the Pelatihan Walet platform. Here, you can learn about starting a swiftlet nest business, identifying types of swiftlets, and how to properly care for swiftlet nests.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>						</div>
 				</div>
 					</div>
 		</div>
@@ -333,22 +315,22 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/inilah-fakta-mengejutkan-tentang-burung-walet-yang-harus-kamu-ketahui-apa-yang-disukai-untuk-dimakan-kenapa-harganya-mahal-dan-banyak-lagi.html/feed</wfw:commentRss>
+					<wfw:commentRss>/here-are-the-shocking-facts-about-swallows-that-you-need-to-know-what-they-like-to-eat-why-they-are-expensive-and-much-more/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Menjadi Pengusaha Walet Sukses: Hitung Modal, Untung, dan Pajak dengan Tepat!</title>
-		<link>/berbisnis-walet-modal-keuntungan-dan-pajak-sarang-burung.html</link>
-					<comments>/berbisnis-walet-modal-keuntungan-dan-pajak-sarang-burung.html#respond</comments>
+		<title>Becoming a Successful Swallow Entrepreneur: Calculating Capital, Profit, and Taxes Accurately!</title>
+		<link>/becoming-a-successful-swallow-entrepreneur-calculating-capital-profit-and-taxes-accurately</link>
+					<comments>/becoming-a-successful-swallow-entrepreneur-calculating-capital-profit-and-taxes-accurately#respond</comments>
 		
 		<dc:creator><![CDATA[raulilma]]></dc:creator>
 		<pubDate>Mon, 27 Feb 2023 03:43:16 +0000</pubDate>
 				<category><![CDATA[Bisnis Walet]]></category>
-		<guid isPermaLink="false">/?p=741</guid>
+		<guid isPermaLink="false">http://trainingwalet.test/?p=741</guid>
 
-					<description><![CDATA[Memulai bisnis di industri walet bisa menjadi pilihan yang menjanjikan karena potensi keuntungan yang cukup besar. Sarang burung walet merupakan salah satu komoditas yang memiliki harga jual tinggi dan terus meningkat setiap tahunnya. Tak heran, bisnis ini semakin diminati oleh banyak orang. Selain itu, permintaan akan sarang burung walet dari dalam dan luar negeri juga &#8230;<p class="read-more"> <a class="" href="/berbisnis-walet-modal-keuntungan-dan-pajak-sarang-burung.html"> <span class="screen-reader-text">Menjadi Pengusaha Walet Sukses: Hitung Modal, Untung, dan Pajak dengan Tepat!</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Starting a business in the swiftlet bird industry can be a promising choice due to its potential for high profits. Swiftlet bird nests are one of the commodities that have a high selling price and continue to increase every year. It&#8217;s no wonder that this business is becoming more and more popular. In addition, the &#8230;<p class="read-more"> <a class="" href="/becoming-a-successful-swallow-entrepreneur-calculating-capital-profit-and-taxes-accurately"> <span class="screen-reader-text">Becoming a Successful Swallow Entrepreneur: Calculating Capital, Profit, and Taxes Accurately!</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="741" class="elementor elementor-741">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-743e694d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="743e694d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -357,15 +339,25 @@
 								<div class="elementor-element elementor-element-55dbeb3d elementor-widget elementor-widget-text-editor" data-id="55dbeb3d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p><!-- wp:paragraph --></p>
-<p><span style="font-size: 16px;">Memulai bisnis di industri walet bisa menjadi pilihan yang menjanjikan karena potensi keuntungan yang cukup besar. Sarang burung walet merupakan salah satu komoditas yang memiliki harga jual tinggi dan terus meningkat setiap tahunnya. Tak heran, bisnis ini semakin diminati oleh banyak orang. Selain itu, permintaan akan sarang burung walet dari dalam dan luar negeri juga terus meningkat. Hal ini membuka peluang untuk mengembangkan bisnis dengan skala yang lebih besar. Selain mendapatkan keuntungan dari penjualan sarang burung walet, bisnis ini juga dapat memberikan nilai tambah dalam bentuk lapangan kerja bagi masyarakat sekitar. </span><span style="font-size: 16px;">Namun, sebelum memulai bisnis ini, penting untuk mengetahui modal yang dibutuhkan, berapa keuntungan yang bisa didapatkan, serta berapa pajak yang harus dibayarkan.</span></p>
-<p><strong>Modal Usaha Walet</strong></p>
-<p>Modal awal yang dibutuhkan untuk memulai bisnis walet cukup besar karena memerlukan tempat khusus untuk sarang burung walet. Harga pembangunan rumah burung walet berkisar antara Rp 20 juta hingga Rp 50 juta tergantung pada lokasi dan ukuran rumah burung walet yang dibangun. Selain itu, ada juga biaya lain seperti pakan, perawatan, dan pengelolaan sarang yang harus dikeluarkan. Total modal yang dibutuhkan untuk memulai bisnis walet berkisar antara Rp 50 juta hingga Rp 100 juta.</p>
-<p><strong>Keuntungan Usaha Walet</strong></p>
-<p>Bisnis walet menjanjikan keuntungan yang cukup besar. Berdasarkan penelitian, setiap burung walet bisa menghasilkan satu ons sarang burung walet setiap tahunnya. Harga sarang burung walet per onsnya bervariasi tergantung pada kualitas dan lokasi penjualan. Secara rata-rata, harga sarang burung walet per ons berkisar antara Rp 20 juta hingga Rp 30 juta. Dengan begitu, keuntungan yang bisa didapatkan dari satu burung walet setiap tahunnya berkisar antara Rp 20 juta hingga Rp 30 juta. Jumlah keuntungan yang bisa didapatkan tentunya akan lebih besar jika memiliki lebih banyak burung walet di rumah burung walet.</p>
-<p><strong>Pajak Sarang Burung Walet</strong></p>
-<p>Pajak sarang burung walet merupakan pajak yang harus dibayarkan setiap bulannya berdasarkan omzet penjualan sarang burung walet. Pajak ini dikenakan oleh pemerintah sebagai bagian dari penerimaan negara. Besarnya pajak sarang burung walet berbeda-beda tergantung pada besarnya omzet penjualan. Pajak ini bisa mencapai 10% hingga 30% dari omzet penjualan. Oleh karena itu, sangat penting untuk mengelola bisnis walet secara baik dan teratur sehingga pajak yang harus dibayarkan bisa terkontrol.</p>
-<p><strong>Kesimpulan</strong></p>
-<p>Demikianlah informasi mengenai bisnis walet, mulai dari modal yang dibutuhkan, keuntungan yang bisa didapatkan, serta pajak sarang burung walet yang harus dibayarkan. Sebagai pelaku bisnis walet, penting untuk memiliki pengetahuan dan keterampilan yang cukup dalam mengelola bisnis agar bisa sukses dan mendapatkan keuntungan yang maksimal.</p>
+<div>
+<div>Starting a business in the swiftlet bird industry can be a promising choice due to its potential for high profits. Swiftlet bird nests are one of the commodities that have a high selling price and continue to increase every year. It&#8217;s no wonder that this business is becoming more and more popular. In addition, the demand for swiftlet bird nests from both domestic and foreign markets continues to increase, opening up opportunities to develop businesses on a larger scale. Besides gaining profits from the sale of swiftlet bird nests, this business can also provide added value in the form of job opportunities for the surrounding community. However, before starting this business, it is important to know the required capital, expected profits, and taxes that need to be paid.</div>
+<br />
+<div><strong>Swiftlet Bird Business Capital</strong></div>
+<br />
+<div>The initial capital required to start a swiftlet bird business is quite large because it requires a special place for the swiftlet bird nests. The price of building a swiftlet bird house ranges from IDR 20 million to IDR 50 million, depending on the location and size of the swiftlet bird house being built. In addition, there are also other costs such as feed, care, and nest management that must be incurred. The total capital required to start a swiftlet bird business ranges from IDR 50 million to IDR 100 million.</div>
+<br />
+<div><strong>Swiftlet Bird Business Profits</strong></div>
+<br />
+<div>The swiftlet bird business promises significant profits. Based on research, each swiftlet bird can produce one ounce of swiftlet bird nests per year. The price of swiftlet bird nests per ounce varies depending on the quality and sales location. On average, the price of swiftlet bird nests per ounce ranges from IDR 20 million to IDR 30 million. Therefore, the profit that can be obtained from one swiftlet bird per year ranges from IDR 20 million to IDR 30 million. The amount of profit that can be obtained will certainly be greater if there are more swiftlet birds in the swiftlet bird house.</div>
+<br />
+<div><strong>Swiftlet Bird Nest Taxes</strong></div>
+<br />
+<div>Swiftlet bird nest taxes are taxes that must be paid every month based on the sales turnover of swiftlet bird nests. This tax is imposed by the government as part of state revenue. The amount of swiftlet bird nest taxes varies depending on the size of the sales turnover. This tax can reach 10% to 30% of sales turnover. Therefore, it is very important to manage the swiftlet bird business well and systematically so that the taxes that need to be paid can be controlled.</div>
+<br />
+<div><strong>Conclusion</strong></div>
+<br />
+<div>That&#8217;s the information about the swiftlet bird business, starting from the required capital, expected profits, and swiftlet bird nest taxes that need to be paid. As a swiftlet bird business player, it is important to have sufficient knowledge and skills in managing the business to succeed and gain maximum profits.</div>
+</div>
 <p><!-- /wp:paragraph --></p>						</div>
 				</div>
 					</div>
@@ -375,23 +367,23 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/berbisnis-walet-modal-keuntungan-dan-pajak-sarang-burung.html/feed</wfw:commentRss>
+					<wfw:commentRss>/becoming-a-successful-swallow-entrepreneur-calculating-capital-profit-and-taxes-accurately/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Ini Dia Daftar Harga Terbaru Sarang Burung Walet Per Ons dan Per Kg dari Sumber Terpercaya!</title>
-		<link>/ini-dia-daftar-harga-terbaru-sarang-burung-walet-per-ons-dan-per-kg-dari-sumber-terpercaya.html</link>
-					<comments>/ini-dia-daftar-harga-terbaru-sarang-burung-walet-per-ons-dan-per-kg-dari-sumber-terpercaya.html#respond</comments>
+		<title>Here is the Latest Price List of Swiftlet Bird&#8217;s Nest Per Ounce and Per Kilogram from a Trusted Source!</title>
+		<link>/here-is-the-latest-price-list-of-swiftlet-birds-nest-per-ounce-and-per-kilogram-from-a-trusted-source</link>
+					<comments>/here-is-the-latest-price-list-of-swiftlet-birds-nest-per-ounce-and-per-kilogram-from-a-trusted-source#respond</comments>
 		
 		<dc:creator><![CDATA[raulilma]]></dc:creator>
 		<pubDate>Mon, 27 Feb 2023 03:29:28 +0000</pubDate>
 				<category><![CDATA[Bisnis Walet]]></category>
 		<category><![CDATA[Sarang Walet]]></category>
-		<guid isPermaLink="false">/?p=734</guid>
+		<guid isPermaLink="false">http://trainingwalet.test/?p=734</guid>
 
-					<description><![CDATA[Sarang burung walet merupakan salah satu komoditas yang cukup menarik perhatian masyarakat karena memiliki nilai jual yang tinggi. Hal ini disebabkan oleh tingginya permintaan dari pasar dalam dan luar negeri, serta kesulitan dalam pengambilannya yang membutuhkan teknik khusus dan risiko yang tinggi. Sarang burung walet memiliki kandungan nutrisi yang tinggi dan diyakini memiliki manfaat untuk &#8230;<p class="read-more"> <a class="" href="/ini-dia-daftar-harga-terbaru-sarang-burung-walet-per-ons-dan-per-kg-dari-sumber-terpercaya.html"> <span class="screen-reader-text">Ini Dia Daftar Harga Terbaru Sarang Burung Walet Per Ons dan Per Kg dari Sumber Terpercaya!</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Swiftlet nests are one of the commodities that attract the attention of society due to their high market value. This is because of the high demand from domestic and international markets, as well as the difficulty in harvesting them, which requires special techniques and comes with high risks. Swiftlet nests are believed to contain high &#8230;<p class="read-more"> <a class="" href="/here-is-the-latest-price-list-of-swiftlet-birds-nest-per-ounce-and-per-kilogram-from-a-trusted-source"> <span class="screen-reader-text">Here is the Latest Price List of Swiftlet Bird&#8217;s Nest Per Ounce and Per Kilogram from a Trusted Source!</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="734" class="elementor elementor-734">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-743e694d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="743e694d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -400,12 +392,12 @@
 								<div class="elementor-element elementor-element-55dbeb3d elementor-widget elementor-widget-text-editor" data-id="55dbeb3d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p><!-- wp:paragraph --></p>
-<p>Sarang burung walet merupakan salah satu komoditas yang cukup menarik perhatian masyarakat karena memiliki nilai jual yang tinggi. Hal ini disebabkan oleh tingginya permintaan dari pasar dalam dan luar negeri, serta kesulitan dalam pengambilannya yang membutuhkan teknik khusus dan risiko yang tinggi. Sarang burung walet memiliki kandungan nutrisi yang tinggi dan diyakini memiliki manfaat untuk kesehatan manusia. Oleh karena itu, banyak orang yang tertarik untuk mengonsumsi atau memperdagangkan sarang burung walet. </p>
-<p>Harga sarang burung walet sendiri cukup tinggi, sehingga tidak heran jika banyak orang yang tertarik untuk mencari informasi terkait harga sarang burung walet. Namun, salah satu permasalahan yang sering muncul adalah kurangnya informasi mengenai harga sarang burung walet. Berapa harga satu ons atau satu kilogram sarang burung walet? Harga sarang burung walet bisa bervariasi tergantung pada beberapa faktor, seperti kualitas sarang, asal sarang, dan juga kondisi pasar saat itu.</p>
-<p>Menurut beberapa sumber, harga sarang burung walet bisa mencapai jutaan rupiah per kilogramnya. Harga tersebut tentu saja sangat tinggi, dan tergantung pada kualitas dan asal sarang. Harga sarang burung walet dari Indonesia biasanya lebih murah dibandingkan dengan sarang yang berasal dari negara-negara seperti Thailand atau Malaysia. Harga sarang burung walet juga bisa berbeda tergantung pada kondisi pasar saat itu. Berdasarkan informasi yang diperoleh dari situs e-commerce Bukalapak, harga sarang burung walet di Indonesia saat ini berkisar antara Rp 20 juta hingga Rp 25 juta per kilogram. Namun, harga tersebut dapat berbeda-beda tergantung pada kualitas, ukuran, dan asal daerah sarang burung walet tersebut. Sementara itu, menurut situs berita Tribunnews, harga sarang burung walet di pasar dunia mencapai US$ 3.000 hingga US$ 6.000 per kilogram.</p>
-<p>Untuk harga sarang burung walet per ons, menurut beberapa sumber harga bisa berkisar antara puluhan ribu hingga ratusan ribu rupiah. Berdasarkan informasi dari situs Alibaba, harga sarang burung walet per ons nya bervariasi dari US$ 50 (Rp763.400,00) hingga US$ 600 (Rp9.160.800,00), tergantung pada kualitas dan ukuran sarang tersebut.</p>
-<p>Namun, harga sarang burung walet memang tergolong sangat mahal. Oleh karena itu, sebelum membeli sarang burung walet, pastikan untuk melakukan riset dan memilih sarang yang berkualitas dengan harga yang wajar. Selain itu, juga penting untuk membeli sarang burung walet dari penjual yang terpercaya dan memiliki reputasi yang baik di pasar. Dengan begitu, Anda dapat memastikan bahwa Anda mendapatkan sarang burung walet yang berkualitas dengan harga yang sesuai dengan kualitasnya.</p>
-<p>Secara keseluruhan, harga sarang burung walet bisa sangat bervariasi tergantung pada beberapa faktor seperti kualitas dan asal sarang. Meskipun harganya tergolong tinggi, sarang burung walet masih menjadi komoditas yang banyak diminati karena kandungan nutrisi yang tinggi dan manfaatnya untuk kesehatan manusia. Oleh karena itu, penting untuk melakukan riset dan membeli sarang burung walet dari penjual yang terpercaya untuk mendapatkan sarang yang berkualitas dengan harga yang wajar.</p>
+<p>Swiftlet nests are one of the commodities that attract the attention of society due to their high market value. This is because of the high demand from domestic and international markets, as well as the difficulty in harvesting them, which requires special techniques and comes with high risks. Swiftlet nests are believed to contain high nutritional value and are believed to have health benefits for humans, which is why many people are interested in consuming or trading them.</p>
+<p>The price of swiftlet nests is quite high, so it is not surprising that many people are interested in finding information about their prices. However, one of the problems that often arises is the lack of information about the price of swiftlet nests. How much does one ons or one kilogram of swiftlet nest cost? The price of swiftlet nests can vary depending on several factors, such as the quality of the nest, the origin of the nest, and also the market conditions at the time.</p>
+<p>According to some sources, the price of swiftlet nests can reach millions of rupiahs per kilogram. The price varies depending on the quality and origin of the nest. Swiftlet nests from Indonesia are usually cheaper than those from countries such as Thailand or Malaysia. The price of swiftlet nests can also differ depending on the market conditions at the time. Based on information obtained from the e-commerce site Bukalapak, the price of swiftlet nests in Indonesia currently ranges from IDR 20 million to IDR 25 million per kilogram. However, the price can vary depending on the quality, size, and origin of the swiftlet nest. Meanwhile, according to the news site Tribunnews, the price of swiftlet nests in the world market can reach USD 3,000 to USD 6,000 per kilogram.</p>
+<p>As for the price of swiftlet nests per ons, according to some sources, the price can range from tens of thousands to hundreds of thousands of rupiahs. Based on information from the Alibaba website, the price of swiftlet nests per ons varies from USD 50 (IDR 763,400.00) to USD 600 (IDR 9,160,800.00), depending on the quality and size of the nest.</p>
+<p>However, the price of swiftlet nests is indeed very high. Therefore, before buying swiftlet nests, it is important to do research and choose high-quality nests at a reasonable price. It is also important to buy swiftlet nests from trustworthy sellers with a good reputation in the market. That way, you can ensure that you get high-quality swiftlet nests at a fair price.</p>
+<p>Overall, the price of swiftlet nests can vary greatly depending on several factors such as the quality and origin of the nest. Despite their high price, swiftlet nests are still a commodity that is in high demand due to their high nutritional value and health benefits. Therefore, it is important to do research and buy swiftlet nests from trustworthy sellers to get high-quality nests at a reasonable price.</p>
 <p><!-- /wp:paragraph --></p>						</div>
 				</div>
 					</div>
@@ -415,22 +407,22 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/ini-dia-daftar-harga-terbaru-sarang-burung-walet-per-ons-dan-per-kg-dari-sumber-terpercaya.html/feed</wfw:commentRss>
+					<wfw:commentRss>/here-is-the-latest-price-list-of-swiftlet-birds-nest-per-ounce-and-per-kilogram-from-a-trusted-source/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Menjelajahi Pekerjaan di Perusahaan Walet: Sebuah Pandangan yang Menarik</title>
-		<link>/menjelajahi-pekerjaan-di-perusahaan-walet-sebuah-pandangan-yang-menarik.html</link>
-					<comments>/menjelajahi-pekerjaan-di-perusahaan-walet-sebuah-pandangan-yang-menarik.html#respond</comments>
+		<title>Exploring Careers in Swiftlet Farming: An Interesting Perspective</title>
+		<link>/exploring-careers-in-swiftlet-farming-an-interesting-perspective</link>
+					<comments>/exploring-careers-in-swiftlet-farming-an-interesting-perspective#respond</comments>
 		
 		<dc:creator><![CDATA[raulilma]]></dc:creator>
 		<pubDate>Mon, 27 Feb 2023 02:40:19 +0000</pubDate>
 				<category><![CDATA[Karir Walet]]></category>
-		<guid isPermaLink="false">/?p=709</guid>
+		<guid isPermaLink="false">http://trainingwalet.test/?p=709</guid>
 
-					<description><![CDATA[Industri walet menjadi salah satu bisnis yang semakin diminati oleh banyak orang. Sarang burung walet yang dihasilkan oleh burung walet sangatlah mahal di pasaran karena banyak diminati oleh konsumen di seluruh dunia, terutama di Asia. Dalam industri ini, setiap perusahaan walet membutuhkan berbagai jenis pekerjaan, mulai dari pemanen, pengolahan, hingga pemasaran produk. Sistem kerja di &#8230;<p class="read-more"> <a class="" href="/menjelajahi-pekerjaan-di-perusahaan-walet-sebuah-pandangan-yang-menarik.html"> <span class="screen-reader-text">Menjelajahi Pekerjaan di Perusahaan Walet: Sebuah Pandangan yang Menarik</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Industri walet menjadi salah satu bisnis yang semakin diminati oleh banyak orang. Sarang burung walet yang dihasilkan oleh burung walet sangatlah mahal di pasaran karena banyak diminati oleh konsumen di seluruh dunia, terutama di Asia. Dalam industri ini, setiap perusahaan walet membutuhkan berbagai jenis pekerjaan, mulai dari pemanen, pengolahan, hingga pemasaran produk. Sistem kerja di &#8230;<p class="read-more"> <a class="" href="/exploring-careers-in-swiftlet-farming-an-interesting-perspective"> <span class="screen-reader-text">Exploring Careers in Swiftlet Farming: An Interesting Perspective</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="709" class="elementor elementor-709">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-743e694d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="743e694d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -473,7 +465,7 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/menjelajahi-pekerjaan-di-perusahaan-walet-sebuah-pandangan-yang-menarik.html/feed</wfw:commentRss>
+					<wfw:commentRss>/exploring-careers-in-swiftlet-farming-an-interesting-perspective/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -488,7 +480,7 @@
 				<category><![CDATA[Balikpapan]]></category>
 		<category><![CDATA[Online Training]]></category>
 		<category><![CDATA[Seminar Training]]></category>
-		<guid isPermaLink="false">/?p=702</guid>
+		<guid isPermaLink="false">http://trainingwalet.test/?p=702</guid>
 
 					<description><![CDATA[Pada akhir Maret 2020, Indonesia diserang oleh pandemi Covid-19 dan daerah Kalimantan Timur, termasuk Kota Balikpapan, mulai bersiap menghadapinya. Meskipun tim Markaswalet telah merencanakan kegiatan pelatihan di wilayah tersebut, namun akibat kondisi yang tidak memungkinkan, pelatihan tersebut terpaksa dilakukan secara online. Tim Markaswalet tetap optimis dapat mengadakan kegiatan pelatihan secara offline di wilayah tersebut pada &#8230;<p class="read-more"> <a class="" href="/markaswalet-menggelar-seminar-dan-pelatihan-budidaya-sarang-burung-walet-di-kota-balikpapan-online.html"> <span class="screen-reader-text">Markaswalet Menggelar Seminar dan Pelatihan Budidaya Sarang Burung Walet di Kota Balikpapan (Online)</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="702" class="elementor elementor-702">
@@ -528,7 +520,7 @@
 				<category><![CDATA[Mataram]]></category>
 		<category><![CDATA[Offline Training]]></category>
 		<category><![CDATA[Seminar Training]]></category>
-		<guid isPermaLink="false">/?p=697</guid>
+		<guid isPermaLink="false">http://trainingwalet.test/?p=697</guid>
 
 					<description><![CDATA[Mataram adalah ibu kota provinsi Nusa Tenggara Barat yang terletak di bagian barat Pulau Lombok yang terkenal dengan destinasi wisatanya yang eksotis. Namun, kondisi ekosistem dan alam NTB juga mendukung proses budidaya sarang burung walet. Sumber air yang melimpah serta banyaknya hutan dan kebun menyediakan lingkungan yang ideal bagi burung walet untuk mencari makan. Dompu, &#8230;<p class="read-more"> <a class="" href="/markaswalet-menggelar-seminar-dan-pelatihan-budidaya-sarang-burung-walet-di-kota-mataram.html"> <span class="screen-reader-text">Markaswalet Menggelar Seminar dan Pelatihan Budidaya Sarang Burung Walet di Kota Mataram</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="697" class="elementor elementor-697">
@@ -562,7 +554,7 @@
 				<category><![CDATA[Makassar]]></category>
 		<category><![CDATA[Offline Training]]></category>
 		<category><![CDATA[Seminar Training]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">http://trainingwalet.test/?p=1</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
