@@ -9,6 +9,15 @@
 	<xsl:template match="/">
 		<html xmlns="http://www.w3.org/1999/xhtml">
 			<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QC7BN88SC4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QC7BN88SC4');
+</script>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
 						<title>Locations Sitemap - Pelatihan Walet</title>
