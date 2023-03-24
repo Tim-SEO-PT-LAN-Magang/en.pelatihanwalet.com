@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
+		<loc>https://en.pelatihanwalet.com/design.xml</loc>
+		<lastmod>2023-03-16T15:08:56+00:00</lastmod>
+	</sitemap>
+	<sitemap>
 		<loc>https://en.pelatihanwalet.com/post-sitemap.xml</loc>
 		<lastmod>2023-03-16T15:08:56+00:00</lastmod>
 	</sitemap>
